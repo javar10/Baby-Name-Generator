@@ -1,6 +1,6 @@
 # Baby Name Randomizer
-#### [Video Demo]([url](https://youtu.be/TJI23U5vilM))
-#### Description:
+### [Video Demo](https://youtu.be/TJI23U5vilM)
+
 ## Project Overview
 Baby Name Randomizer serves to help parents-to-be name their baby. Often parents will have a name they like, but can't decide on the middle or first name to go with it. Baby Name Randomizer allows parents to test thousands of names, discovering what they look and sound like when paired together. Users can also save favorite versions of names to reference again when they need help making that most difficult decision.
 
