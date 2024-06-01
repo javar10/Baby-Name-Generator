@@ -1,0 +1,108 @@
+:root {
+    --gray: #707070;
+    --neutral: #DFEFDF;
+  }
+
+button {
+    align-items: center;
+    color: var(--gray);
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Quicksand,sans-serif;
+}
+
+h1 {
+    background: var(--neutral);
+    font-size: 6vw;
+    color: var(--gray);
+    text-align: center;
+    display: inline;
+}
+
+#randomNamesLI:hover {
+    cursor: pointer;
+    width: fit-content;
+}
+
+nav {
+    background: var(--neutral);
+}
+
+ol {
+    text-align: left;
+    font-size: 2vw;
+    margin: 2vw;
+}
+
+ul {
+    text-align: left;
+}
+
+.btn {
+    margin: .5vw;
+    width: 14vw;
+}
+
+.row {
+    padding: 2vw;
+    display: none;
+}
+
+.card {
+    background: var(--neutral);
+    height: 100%;
+    color: var(--gray);
+}
+
+.card-header {
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+.card-title {
+    font-size: 3vw;
+}
+
+.option-btns {
+    display: block;
+    float: right;
+}
+
+#first-random-div, #middle-random-div {
+    display: none;
+}
+
+#full-name {
+    font-family: "Brush Script MT";
+    font-size: 5vw;
+
+}
+
+#full-name-div {
+    display: none;
+    text-align: center;
+    margin: 2vw 0vw 0vw;
+}
+
+#gender {
+    font-size: 3vw;
+    width: fit-content;
+    background: var(--neutral);
+}
+
+#gender-option-div {
+    text-align: center;
+    margin-top: 2vw;
+}
+
+#name-options-div {
+    display: none;
+    text-align: center;
+}
+
+
+
+
+
+
+
